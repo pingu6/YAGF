@@ -1,0 +1,4 @@
+- [Ecco the Dolphin](https://retroachievements.org/game/16019)
+- [Snatcher](https://retroachievements.org/game/10067)
+- [Sonic CD](https://retroachievements.org/game/10062)
+- [Earthworm Jim: Special Edition](https://retroachievements.org/game/14144)

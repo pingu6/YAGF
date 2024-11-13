@@ -1,0 +1,2 @@
+- [Jungle Hunt](https://retroachievements.org/game/13210)
+- [H.E.R.O.](https://retroachievements.org/game/11611)
