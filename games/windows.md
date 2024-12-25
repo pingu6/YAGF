@@ -1,247 +1,299 @@
- - Hades [!badge variant="ghost" variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1145360/)
-
- - Hollow Knight [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/367520/)
-
- - Celeste [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/504230/)
-
- - Factorio [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/427520/)
-
- - Noita [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/881100/)
-
- - The Binding of Isaac [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/250900/)
-
- - Hotline Miami [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/219150/)
-
- - Stardew Valley [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/413150/)
-
- - Don't Starve [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/219740/)
-
- - OpenTTD [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1536610/)
-
- - Spelunky [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/239350/)
-
- - Shovel Knight: Treasure Trove [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/250760/)
-
- - Batbarian: Testament of the Primordials [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/837460/)
-
- - RimWorld [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/294100/)
-
- - Blasphemous [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/774361/)
-
- - Infernax [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/374190/)
-
- - Black Skylands [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1143810/)
-
- - Batman: Arkham City [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/200260/) [!badge variant="contrast" icon="/static/GOG.com_logo.svg"](https://www.gog.com/en/game/batman_arkham_city_goty)
-
- - Batman: Arkham Origins [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/209000/) [!badge variant="contrast" icon="/static/GOG.com_logo.svg"](https://www.gog.com/en/game/batman_arkham_origins)
-
- - Batman: Arkham Asylum [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/209000/) [!badge variant="contrast" icon="/static/GOG.com_logo.svg"](https://www.gog.com/en/game/batman_arkham_asylum_goty)
-
- - CrossCode [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/368340/)
-
- - Dishonored - Definitive Edition [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/205100/31292/)
-
- - Dead Cells [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/588650/)
-
- - Metro 2033 Redux [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/286690/)
-
- - Metro: Last Light Redux [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/287390/)
-
- - Tomb Raider [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/203160/26016/)
-
- - Katana ZERO [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/460950/)
-
- - ULTRAKILL [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1229490/)
-
- - Helltaker [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1289310/)
-
- - Enter the Gungeon [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/311690/)
-
- - Terraria  [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/105600/)
-
- - Butcher [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/474210/)
-
- - Factory Town [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/860890/)
-
- - Saints Row IV [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/206420/)
-
- - RAGE [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/9200/)
-
- - BioShock [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/409710/)
-
- - BioShock 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/409720/)
-
- - Mafia II: Definitive Edition [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1030830/)
-
- - Cuphead [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/268910)
-
- - Spelunky [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/239350)
-
- - Spelunky [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/418530)
-
- - Grand Theft Auto: Vice City
-
- - Grand Theft Auto III
-
- - Grand Theft Auto IV [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/12210)
-
- - Fallout 3: Game of the Year Edition [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/22370/)
-
- - Fallout: New Vegas [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/22380)
-
- - Fallout 4 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/377160)
-
- - Bastion [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/107100)
-
- - Backbone / Tails Noir [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/865610)
-
- - Sleeping Dogs: Definitive Edition [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/307690)
-
- - Need For Speed: Most Wanted 2005
-
- - Hyper light drifter [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/257850)
-
- - Noita [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/881100)
-
- - Just Cause 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/8190)
-
- - Far Cry [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/13520)
-
- - Far Cry 3 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/220240)
-
- - DISHONORED - DEFINITIVE EDITION [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/sub/31292)
-
- - Crysis
-
- - Assassin's creed 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/33230)
-
- - Prince of Persia: The Sands of Time [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/13600)
-
- - Prince of Persia: Warrior Within [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/13500)
-
- - Prince of Persia: The Two Thrones [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/13530)
-
- - La noire [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/110800)
-
- - Darksiders 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/50620)
-
- - Darksiders 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/388410)
-
- - The Witcher [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/20900)
-
- - The Witcher 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/20920)
-
- - Broforce [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/274190)
-
- - TowerFall Ascension [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/251470)
-
- - Rogue Legacy [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/241600)
-
- - Rogue Legacy 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1253920)
-
- - Retro City Rampage DX [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/204630)
-
- - Payday 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/218620)
-
- - Killing Floor 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/232090)
-
- - Battlefield Bad Company 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/24960)
-
- - METAL GEAR RISING: REVENGEANCE [!badge variant="ghost" icon="/static/GOG.com_logo.svg"](https://store.steampowered.com/app/235460) [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://www.gog.com/en/game/metal_gear_rising_revengeance)
-
- - METAL GEAR SOLID V: THE PHANTOM PAIN [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/287700)
-
- - Bully [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/12200)
-
- - Manhunt 1 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/12130)
-
- - Manhunt 2
-
- - UnderMine [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/656350)
-
- - Touhou Luna Nights [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/851100)
-
- - Axiom Verge 2 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/946030)
-
- - Ato [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1096180)
-
- - Astalon: Tears of the Earth [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1046400)
-
- - Alwa's Legacy [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1205900)
-
- - Angel's Gear [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/2241560)
-
- - Bone Appetit [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1256520)
-
- - CARRION [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/953490)
-
- - Cathedral [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1056180)
-
- - Crowsworn [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1614330)
-
- - ENDER LILIES: Quietus of the Knights [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1369630)
-
- - Elderand [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1413660)
-
- - Haiku, the Robot [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1231880)
-
- - Ghost Song [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"]( https://store.steampowered.com/app/347800)
-
- - Fearmonium [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1068360)
-
- - Catmaze [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/620220)
-
- - HAAK [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1352930)
-
- - GRIME [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1123050/)
-
- - The Knight Witch [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1872680)
-
- - Kingdom Shell [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1154090/)
-
- - KUNAI [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1001800/)
-
- - Iconoclasts [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/393520/)
-
- - Islets [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1669420/)
-
- - Kharon's Crypt - Even Death May Die [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/793830)
-
- - HunterX [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/1918450/)
-
- - max payne 3 [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/204100/)
-
- - Pizza Tower [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"](https://store.steampowered.com/app/2231450/)
-
- - [!badge variant="ghost" icon="/static/Steam_icon_logo.svg"]()
-
- - [!badge variant="ghost" icon="/static/GOG.com_logo.svg"]()
-
-https://steelraven7.itch.io/ravenfield
-https://www.kartkrew.org/
-https://www.srb2.org/
-Wizard Of Legend
-Alekhine's Gun
-Rogue Tower
-Peglin
-overloop
-Black Skylands
-Islets
-Cult of the Lamb
-Eastward
-Slipstream
-Factory Town
-frogun
-The Messenger
-Alien Swarm
-Door Kickers Action Squad
-https://store.steampowered.com/app/681110/Eagle_Island_Twist/
-https://store.steampowered.com/app/264220/Mr_Bree
-https://store.steampowered.com/app/596970/Sunless_Skies_Sovereign_Edition/
-https://store.steampowered.com/app/625960/Stoneshard/
-https://store.steampowered.com/app/606150/Moonlighter
-https://store.steampowered.com/app/599140/Graveyard_Keeper/
-https://store.steampowered.com/app/251370/Escape_Goat/
-Wolfenstein The New Order
-https://store.steampowered.com/app/569480/Kingdoms_and_Castles/
+### Roguelike:
+- [Hades](https://www.pcgamingwiki.com/wiki/Hades)
+- [Noita](https://www.pcgamingwiki.com/wiki/Noita)
+- [The Binding of Isaac: Rebirth](https://www.pcgamingwiki.com/wiki/The_Binding_of_Isaac:_Rebirth)
+- [Spelunky](https://www.pcgamingwiki.com/wiki/Spelunky)
+- [Spelunky 2](https://www.pcgamingwiki.com/wiki/Spelunky_2)
+- [Dead Cells](https://www.pcgamingwiki.com/wiki/Dead_Cells)
+- [Enter the Gungeon](https://www.pcgamingwiki.com/wiki/Enter_the_Gungeon)
+- [UnderMine](https://www.pcgamingwiki.com/wiki/UnderMine)
+- [Rogue Legacy](https://www.pcgamingwiki.com/wiki/Rogue_Legacy)
+- [Rogue Legacy 2](https://www.pcgamingwiki.com/wiki/Rogue_Legacy_2)
+- [Power of Ten](https://www.mobygames.com/game/197757/power-of-ten/)
+- [Tiny rogues](https://www.pcgamingwiki.com/wiki/Tiny_rogues)
+- [One Step from Eden](https://www.pcgamingwiki.com/wiki/One_Step_from_Eden)
+- [Wizard of Legend](https://www.pcgamingwiki.com/wiki/Wizard_of_Legend)
+- [Rogue Tower](https://www.mobygames.com/game/179020/rogue-tower/)
+- [Cult of the Lamb](https://www.pcgamingwiki.com/wiki/Cult_of_the_Lamb)
+- [Eastward](https://www.pcgamingwiki.com/wiki/Eastward)
+- [Peglin](https://www.pcgamingwiki.com/wiki/Peglin)
+- [Eagle Island](https://www.pcgamingwiki.com/wiki/Eagle_Island)
+- [Moonlighter](https://www.pcgamingwiki.com/wiki/Moonlighter)
+- [Pocket Rogues](https://www.pcgamingwiki.com/wiki/Pocket_Rogues)
+- [Eagle Island](https://www.pcgamingwiki.com/wiki/Eagle_Island)
+- [Himno: The Silent Melody](https://www.pcgamingwiki.com/wiki/Himno:_The_Silent_Melody)
+- [Nuclear Throne](https://www.pcgamingwiki.com/wiki/Nuclear_Throne)
+- [Skul: The Hero Slayer](https://www.pcgamingwiki.com/wiki/Skul:_The_Hero_Slayer)
+- [Downwell](https://www.pcgamingwiki.com/wiki/Downwell)
+- [Ants Took My Eyeball](https://www.pcgamingwiki.com/wiki/Ants_Took_My_Eyeball)
+- [Sparklite](https://www.pcgamingwiki.com/wiki/Sparklite)
+- [Blazing Beaks](https://www.pcgamingwiki.com/wiki/Blazing_Beaks)
+- [Streets of Rogue](https://www.pcgamingwiki.com/wiki/Streets_of_Rogue)
+- [Dead Estate](https://www.pcgamingwiki.com/wiki/Dead_Estate)
+- [Rising Hell](https://www.pcgamingwiki.com/wiki/Rising_Hell)
+- [Vagante](https://www.pcgamingwiki.com/wiki/Vagante)
+- [ScourgeBringer](https://www.pcgamingwiki.com/wiki/ScourgeBringer)
+- [Fury Unleashed](https://www.pcgamingwiki.com/wiki/Fury_Unleashed)
+
+### Metroidvania:
+- [Hollow Knight](https://www.pcgamingwiki.com/wiki/Hollow_Knight)
+- [Batbarian: Testament of the Primordials](https://www.pcgamingwiki.com/wiki/Batbarian:_Testament_of_the_Primordials)
+- [Blasphemous](https://www.pcgamingwiki.com/wiki/Blasphemous)
+- [Infernax](https://www.pcgamingwiki.com/wiki/Infernax)
+- [HunterX](https://www.pcgamingwiki.com/wiki/HunterX)
+- [Kharon's Crypt - Even Death May Die](https://www.pcgamingwiki.com/wiki/Kharon%27s_Crypt_-_Even_Death_May_Die)
+- [Islets](https://www.pcgamingwiki.com/wiki/Islets)
+- [Iconoclasts](https://www.pcgamingwiki.com/wiki/Iconoclasts)
+- [Kingdom Shell](https://www.pcgamingwiki.com/wiki/Kingdom_Shell)
+- [HAAK](https://www.pcgamingwiki.com/wiki/HAAK)
+- [Catmaze](https://www.pcgamingwiki.com/wiki/Catmaze)
+- [Fearmonium](https://www.pcgamingwiki.com/wiki/Fearmonium)
+- [Haiku, the Robot](https://www.pcgamingwiki.com/wiki/Haiku,_the_Robot)
+- [Ender Lilies: Quietus of the Knights](https://www.pcgamingwiki.com/wiki/Ender_Lilies:_Quietus_of_the_Knights)
+- [Cathedral](https://www.pcgamingwiki.com/wiki/Cathedral)
+- [Carrion](https://www.pcgamingwiki.com/wiki/Carrion)
+- [Bone Appetit](https://www.mobygames.com/game/152489/bone-appetit/)
+- [Alwa's Awakening](https://www.pcgamingwiki.com/wiki/Alwa%27s_Awakening)
+- [Alwa's Legacy](https://www.pcgamingwiki.com/wiki/Alwa%27s_Legacy)
+- [Astalon: Tears of the Earth](https://www.pcgamingwiki.com/wiki/Astalon:_Tears_of_the_Earth)
+- [Ato](https://www.mobygames.com/game/158141/ato/)
+- [Axiom Verge](https://www.pcgamingwiki.com/wiki/Axiom_Verge)
+- [Axiom Verge 2](https://www.pcgamingwiki.com/wiki/Axiom_Verge_2)
+- [Touhou Luna Nights](https://www.pcgamingwiki.com/wiki/Touhou_Luna_Nights)
+- [The Messenger](https://www.pcgamingwiki.com/wiki/The_Messenger)
+- [Cave Story+](https://www.pcgamingwiki.com/wiki/Cave_Story%2B)
+- [Timespinner](https://www.pcgamingwiki.com/wiki/Timespinner)
+- [Record of Lodoss War: Deedlit in Wonder Labyrinth](https://www.pcgamingwiki.com/wiki/Record_of_Lodoss_War:_Deedlit_in_Wonder_Labyrinth)
+- [Environmental Station Alpha](https://www.pcgamingwiki.com/wiki/Environmental_Station_Alpha)
+- [Lone Fungus](https://www.pcgamingwiki.com/wiki/Lone_Fungus)
+- [Cathedral](https://www.pcgamingwiki.com/wiki/Cathedral)
+- [Carrion](https://www.pcgamingwiki.com/wiki/Carrion)
+- [Animal Well](https://www.pcgamingwiki.com/wiki/Animal_Well)
+- [Momodora: Reverie under the Moonlight](https://www.pcgamingwiki.com/wiki/Momodora:_Reverie_under_the_Moonlight)
+- [Greak: Memories of Azur](https://www.pcgamingwiki.com/wiki/Greak:_Memories_of_Azur)
+- [Death's Gambit](https://www.pcgamingwiki.com/wiki/Death%27s_Gambit)
+- [Berserk Boy](https://www.pcgamingwiki.com/wiki/Berserk_Boy)
+- [Astalon: Tears of the Earth](https://www.pcgamingwiki.com/wiki/Astalon:_Tears_of_the_Earth)
+- [Unsighted](https://www.pcgamingwiki.com/wiki/Unsighted)
+- [The Last Faith](https://www.pcgamingwiki.com/wiki/The_Last_Faith)
+
+### Platformer:
+- [Celeste](https://www.pcgamingwiki.com/wiki/Celeste)
+- [Shovel Knight: Treasure Trove](https://www.pcgamingwiki.com/wiki/Shovel_Knight:_Treasure_Trove)
+- [Pizza Tower](https://www.pcgamingwiki.com/wiki/Pizza_Tower)
+- [Kunai](https://www.pcgamingwiki.com/wiki/Kunai)
+- [Prince of Persia: The Sands of Time](https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Sands_of_Time)
+- [Prince of Persia: Warrior Within](https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_Warrior_Within)
+- [Prince of Persia: The Two Thrones](https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Two_Thrones)
+- [Prince of Persia (2008)](https://www.pcgamingwiki.com/wiki/Prince_of_Persia_(2008))
+- [Prince of Persia: The Forgotten Sands](https://www.pcgamingwiki.com/wiki/Prince_of_Persia:_The_Forgotten_Sands)
+- [Cyber Shadow](https://www.pcgamingwiki.com/wiki/Cyber_Shadow)
+- [Sonic Robo Blast 2](https://www.pcgamingwiki.com/wiki/Sonic_Robo_Blast_2)
+- [Mr. Bree+](https://www.pcgamingwiki.com/wiki/Mr._Bree%2B)
+- [Himno](https://www.pcgamingwiki.com/wiki/Himno)
+- [Sanabi](https://www.pcgamingwiki.com/wiki/Sanabi)
+- [Gravity Circuit](https://www.pcgamingwiki.com/wiki/Gravity_Circuit)
+- [Spark the Electric Jester](https://www.pcgamingwiki.com/wiki/Spark_the_Electric_Jester)
+- [Freedom Planet 2](https://www.pcgamingwiki.com/wiki/Freedom_Planet_2)
+- [Bread & Fred](https://www.pcgamingwiki.com/wiki/Bread_%26_Fred)
+- [Momodora I](https://www.pcgamingwiki.com/wiki/Momodora_I)
+- [Momodora II](https://www.pcgamingwiki.com/wiki/Momodora_II)
+- [Momodora III](https://www.pcgamingwiki.com/wiki/Momodora_III)
+- [Super Meat Boy](https://www.pcgamingwiki.com/wiki/Super_Meat_Boy)
+- [Nuclear Blaze](https://www.pcgamingwiki.com/wiki/Nuclear_Blaze)
+- [Jump King](https://www.pcgamingwiki.com/wiki/Jump_King)
+- [Getting Over It with Bennett Foddy](https://www.pcgamingwiki.com/wiki/Getting_Over_It_with_Bennett_Foddy)
+- [Cotton Tale](https://www.mobygames.com/game/206294/cotton-tale/)
+- [Bunny Hop](https://store.steampowered.com/app/1410070/Bunny_Hop)
+- [Deneb: Across the Stars](https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars)
+- [This is Hell](https://store.steampowered.com/app/2157130/This_is_Hell/)
+
+### Building:
+- [Factorio](https://www.pcgamingwiki.com/wiki/Factorio)
+- [OpenTTD](https://www.pcgamingwiki.com/wiki/OpenTTD)
+- [Chris Sawyer's Locomotion](https://www.pcgamingwiki.com/wiki/Chris_Sawyer%27s_Locomotion)
+- [OpenRCT2](https://www.pcgamingwiki.com/wiki/OpenRCT2)
+- [OpenLoco](https://www.pcgamingwiki.com/wiki/OpenLoco)
+- [Factory Town](https://www.pcgamingwiki.com/wiki/Factory_Town)
+- [Fallout Shelter](https://www.pcgamingwiki.com/wiki/Fallout_Shelter)
+- [Banished](https://www.pcgamingwiki.com/wiki/Banished)
+
+### Shooter:
+- [Hotline Miami](https://www.pcgamingwiki.com/wiki/Hotline_Miami)
+- [Hotline Miami 2: Wrong Number](https://www.pcgamingwiki.com/wiki/Hotline_Miami_2:_Wrong_Number)
+- [Max Payne 3](https://www.pcgamingwiki.com/wiki/Max_Payne_3)
+- [Loplight](https://www.mobygames.com/game/190160/loplight/)
+- [Broforce](https://www.pcgamingwiki.com/wiki/Broforce)
+- [The Expendabros](https://www.pcgamingwiki.com/wiki/The_Expendabros)
+
+### Farming:
+- [Stardew Valley](https://www.pcgamingwiki.com/wiki/Stardew_Valley)
+
+### Survival:
+- [Don't Starve](https://www.pcgamingwiki.com/wiki/Don%27t_Starve)
+- [Don't Starve Together](https://www.pcgamingwiki.com/wiki/Don%27t_Starve_Together)
+- [RimWorld](https://www.pcgamingwiki.com/wiki/RimWorld)
+- [Terraria](https://www.pcgamingwiki.com/wiki/Terraria)
+- [Starbound](https://www.pcgamingwiki.com/wiki/Starbound)
+- [Forager](https://www.pcgamingwiki.com/wiki/Forager)
+- [Evil Tonight](https://www.pcgamingwiki.com/wiki/Evil_Tonight)
+- [Core Keeper](https://www.pcgamingwiki.com/wiki/Core_Keeper)
+- [Wayward](https://www.pcgamingwiki.com/wiki/Wayward)
+
+### Puzzle:
+- [Shovel Knight Pocket Dungeon](https://www.pcgamingwiki.com/wiki/Shovel_Knight_Pocket_Dungeon)
+- [Helltaker](https://www.pcgamingwiki.com/wiki/Helltaker)
+- [Taiji](https://www.pcgamingwiki.com/wiki/Taiji)
+- [Overloop](https://www.pcgamingwiki.com/wiki/Overloop)
+- [Escape Goat](https://www.pcgamingwiki.com/wiki/Escape_Goat)
+- [Escape Goat 2](https://www.pcgamingwiki.com/wiki/Escape_Goat_2)
+- [Evan's Remains](https://www.pcgamingwiki.com/wiki/Evan%27s_Remains)
+
+### Adventure:
+- [Black Skylands](https://www.pcgamingwiki.com/wiki/Black_Skylands)
+- [To the Moon](https://www.pcgamingwiki.com/wiki/To_the_Moon)
+- [A Bird Story](https://www.pcgamingwiki.com/wiki/A_Bird_Story)
+- [Finding Paradise](https://www.pcgamingwiki.com/wiki/Finding_Paradise)
+- [Impostor Factory](https://www.pcgamingwiki.com/wiki/Impostor_Factory)
+- [Owlboy](https://www.pcgamingwiki.com/wiki/Owlboy)
+- [Yuppie Psycho](https://www.pcgamingwiki.com/wiki/Yuppie_Psycho)
+- [Eastward](https://www.pcgamingwiki.com/wiki/Eastward)
+- [Turnip Boy Commits Tax Evasion](https://www.pcgamingwiki.com/wiki/Turnip_Boy_Commits_Tax_Evasion)
+- [Turnip Boy Robs a Bank](https://www.pcgamingwiki.com/wiki/Turnip_Boy_Robs_a_Bank)
+- [Emberville](https://store.steampowered.com/app/2295170/Emberville/)
+- [Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist](https://www.pcgamingwiki.com/wiki/Dr._Langeskov,_The_Tiger,_and_The_Terribly_Cursed_Emerald:_A_Whirlwind_Heist)
+
+### Action:
+- [Batman: Arkham Asylum](https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Asylum)
+- [Batman: Arkham City](https://www.pcgamingwiki.com/wiki/Batman:_Arkham_City)
+- [Batman: Arkham Origins](https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Origins)
+- [Dishonored](https://www.pcgamingwiki.com/wiki/Dishonored)
+- [Metro 2033 Redux](https://www.pcgamingwiki.com/wiki/Metro_2033_Redux)
+- [Metro: Last Light Redux](https://www.pcgamingwiki.com/wiki/Metro:_Last_Light_Redux)
+- [Tomb Raider (2013)](https://www.pcgamingwiki.com/wiki/Tomb_Raider_(2013))
+- [Katana Zero](https://www.pcgamingwiki.com/wiki/Katana_Zero)
+- [Butcher](https://www.pcgamingwiki.com/wiki/Butcher)
+- [Saints Row IV](https://www.pcgamingwiki.com/wiki/Saints_Row_IV)
+- [Mafia II: Definitive Edition](https://www.pcgamingwiki.com/wiki/Mafia_II:_Definitive_Edition)
+- [Cuphead](https://www.pcgamingwiki.com/wiki/Cuphead)
+- [Lycanthorn II: Rain of Beasts](https://www.mobygames.com/game/197577/lycanthorn-ii-rain-of-beasts/)
+- [Manhunt](https://www.pcgamingwiki.com/wiki/Manhunt)
+- [Manhunt 2](https://www.pcgamingwiki.com/wiki/Manhunt_2)
+- [Bully: Scholarship Edition](https://www.pcgamingwiki.com/wiki/Bully:_Scholarship_Edition)
+- [Metal Gear Rising: Revengeance](https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance)
+- [Retro City Rampage](https://www.pcgamingwiki.com/wiki/Retro_City_Rampage)
+- [TowerFall Ascension](https://www.pcgamingwiki.com/wiki/TowerFall_Ascension)
+- [L.A. Noire](https://www.pcgamingwiki.com/wiki/L.A._Noire)
+- [Assassin's Creed II](https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_II)
+- [Dishonored](https://www.pcgamingwiki.com/wiki/Dishonored)
+- [Sleeping Dogs: Definitive Edition](https://www.pcgamingwiki.com/wiki/Sleeping_Dogs:_Definitive_Edition)
+- [Grand Theft Auto III](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_III)
+- [Grand Theft Auto: Vice City](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto:_Vice_City)
+- [Grand Theft Auto: San Andreas](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto:_San_Andreas)
+- [Grand Theft Auto IV](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_IV)
+- [Terminator: Salvation](https://www.pcgamingwiki.com/wiki/Terminator:_Salvation)
+- [Kamiko](https://www.pcgamingwiki.com/wiki/Kamiko)
+- [There Is No Light](https://www.pcgamingwiki.com/wiki/There_Is_No_Light)
+- [Alekhine's Gun](https://www.pcgamingwiki.com/wiki/Alekhine%27s_Gun)
+- [Alien Swarm](https://www.pcgamingwiki.com/wiki/Alien_Swarm)
+- [Door Kickers: Action Squad](https://www.pcgamingwiki.com/wiki/Door_Kickers:_Action_Squad)
+- [Akane](https://www.pcgamingwiki.com/wiki/Akane)
+- [Huntdown](https://www.pcgamingwiki.com/wiki/Huntdown)
+- [Colt Canyon](https://www.pcgamingwiki.com/wiki/Colt_Canyon)
+
+### Action RPG:
+- [CrossCode](https://www.pcgamingwiki.com/wiki/CrossCode)
+- [Hyper Light Drifter](https://www.pcgamingwiki.com/wiki/Hyper_Light_Drifter)
+- [Fallout 3](https://www.pcgamingwiki.com/wiki/Fallout_3)
+- [Fallout: New Vegas](https://www.pcgamingwiki.com/wiki/Fallout:_New_Vegas)
+- [Fallout 4](https://www.pcgamingwiki.com/wiki/Fallout_4)
+- [Graveyard Keeper](https://www.pcgamingwiki.com/wiki/Graveyard_Keeper)
+- [Hyper Light Drifter](https://www.pcgamingwiki.com/wiki/Hyper_Light_Drifter)
+- [Ocean's Heart](https://www.pcgamingwiki.com/wiki/Ocean%27s_Heart)
+- [Unsouled](https://www.pcgamingwiki.com/wiki/Unsouled)
+- [Death Trash](https://www.pcgamingwiki.com/wiki/Death_Trash)
+- [Chasm](https://www.pcgamingwiki.com/wiki/Chasm)
+- [Archvale](https://www.pcgamingwiki.com/wiki/Archvale)
+
+### FPS
+- [Ultrakill](https://www.pcgamingwiki.com/wiki/Ultrakill)
+- [Rage](https://www.pcgamingwiki.com/wiki/Rage)
+- [BioShock](https://www.pcgamingwiki.com/wiki/BioShock)
+- [BioShock 2](https://www.pcgamingwiki.com/wiki/BioShock_2)
+- [BioShock Infinite](https://www.pcgamingwiki.com/wiki/BioShock_Infinite)
+- [Vomitoreum](https://www.pcgamingwiki.com/wiki/Vomitoreum)
+- [Shrine](https://www.mobygames.com/game/152366/shrine/)
+- [Shrine II](https://www.mobygames.com/game/152389/shrine-ii/)
+- [Battlefield 2](https://www.pcgamingwiki.com/wiki/Battlefield_2)
+- [Battlefield: Bad Company 2](https://www.pcgamingwiki.com/wiki/Battlefield:_Bad_Company_2)
+- [Battlefield 3](https://www.pcgamingwiki.com/wiki/Battlefield_3)
+- [Crysis](https://www.pcgamingwiki.com/wiki/Crysis)
+- [Crysis Warhead](https://www.pcgamingwiki.com/wiki/Crysis_Warhead)
+- [Crysis 2](https://www.pcgamingwiki.com/wiki/Crysis_2)
+- [Killing Floor](https://www.pcgamingwiki.com/wiki/Killing_Floor)
+- [Killing Floor 2](https://www.pcgamingwiki.com/wiki/Killing_Floor_2)
+- [Payday: The Heist](https://www.pcgamingwiki.com/wiki/Payday:_The_Heist)
+- [Payday 2](https://www.pcgamingwiki.com/wiki/Payday_2)
+- [Far Cry](https://www.pcgamingwiki.com/wiki/Far_Cry)
+- [Far Cry 2](https://www.pcgamingwiki.com/wiki/Far_Cry_2)
+- [Far Cry 3](https://www.pcgamingwiki.com/wiki/Far_Cry_3)
+- [Far Cry 3 Blood Dragon](https://www.pcgamingwiki.com/wiki/Far_Cry_3_Blood_Dragon)
+- [Just Cause 2](https://www.pcgamingwiki.com/wiki/Just_Cause_2)
+- [Ravenfield](https://www.pcgamingwiki.com/wiki/Ravenfield)
+- [Wolfenstein: The New Order](https://www.pcgamingwiki.com/wiki/Wolfenstein:_The_New_Order)
+
+### RPG:
+- [The Witcher](https://www.pcgamingwiki.com/wiki/The_Witcher)
+- [The Witcher 2: Assassins of Kings](https://www.pcgamingwiki.com/wiki/The_Witcher_2:_Assassins_of_Kings)
+- [Darksiders Warmastered Edition](https://www.pcgamingwiki.com/wiki/Darksiders_Warmastered_Edition)
+- [Darksiders II: Deathinitive Edition](https://www.pcgamingwiki.com/wiki/Darksiders_II:_Deathinitive_Edition)
+- [Tails Noir](https://www.pcgamingwiki.com/wiki/Tails_Noir)
+- [Arco](https://www.mobygames.com/game/229016/arco/)
+- [Chef RPG](https://store.steampowered.com/app/1796790/Chef_RPG/)
+- [Kingdoms and Castles](https://www.pcgamingwiki.com/wiki/Kingdoms_and_Castles)
+- [Project Kat - Paper Lily Prologue](https://www.pcgamingwiki.com/wiki/Project_Kat_-_Paper_Lily_Prologue)
+- [Travellers Rest](https://www.pcgamingwiki.com/wiki/Travellers_Rest)
+- [Undertale](https://www.pcgamingwiki.com/wiki/Undertale)
+
+### Racing:
+- [Need for Speed: Underground](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground)
+- [Need for Speed: Underground 2](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground_2)
+- [Need for Speed: Most Wanted](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Most_Wanted)
+- [Need for Speed: Carbon](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Carbon)
+- [Need for Speed: Hot Pursuit](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Hot_Pursuit)
+- [Shift 2 Unleashed](https://www.pcgamingwiki.com/wiki/Shift_2_Unleashed)
+- [Need for Speed: Most Wanted (2012)](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Most_Wanted_(2012))
+- [Need for Speed Rivals](https://www.pcgamingwiki.com/wiki/Need_for_Speed_Rivals)
+- [Sonic Robo Blast 2 Kart](https://www.pcgamingwiki.com/wiki/Sonic_Robo_Blast_2_Kart)
+- [Dr. Robotnik's Ring Racers](https://www.pcgamingwiki.com/wiki/Dr._Robotnik%27s_Ring_Racers)
+- [Slipstream](https://www.pcgamingwiki.com/wiki/Slipstream)
+- [Split/Second](https://www.pcgamingwiki.com/wiki/Split/Second)
+- [Old School Rally](https://store.steampowered.com/app/2824660/Old_School_Rally/)
+- [SuperTuxKart](https://www.pcgamingwiki.com/wiki/SuperTuxKart)
+- [Nightmare Kart](https://www.pcgamingwiki.com/wiki/Nightmare_Kart)
+
+### JRPG:
+- [Jack Move](https://www.pcgamingwiki.com/wiki/Jack_Move)
+- [OMORI](https://www.pcgamingwiki.com/wiki/OMORI)
+
+### Fighting:
+- [Nidhogg](https://www.pcgamingwiki.com/wiki/Nidhogg)
+- [Nidhogg 2](https://www.pcgamingwiki.com/wiki/Nidhogg_2)
+- [Duelists of Eden](https://www.mobygames.com/game/223506/duelists-of-eden/)
+
+### Shoot 'Em Up:
+- [Drainus](https://www.pcgamingwiki.com/wiki/Drainus)
+
+### Strategy:
+- [Into the Breach](https://www.pcgamingwiki.com/wiki/Into_the_Breach)
+- [The Escapists 2](https://www.pcgamingwiki.com/wiki/The_Escapists_2)
+
+### Idle:
+- [Rusty's Retirement](https://www.pcgamingwiki.com/wiki/Rusty%27s_Retirement)
+
+### Flight:
+- [Microsoft Flight Simulator X](https://www.pcgamingwiki.com/wiki/Microsoft_Flight_Simulator_X)
+
+### Multiplayer:
+- [Super Animal Royale](https://www.pcgamingwiki.com/wiki/Super_Animal_Royale)
+ 
