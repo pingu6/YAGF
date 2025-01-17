@@ -196,6 +196,7 @@
 - [Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist](https://www.pcgamingwiki.com/wiki/Dr._Langeskov,_The_Tiger,_and_The_Terribly_Cursed_Emerald:_A_Whirlwind_Heist)
 - [Cloud Climber](https://www.mobygames.com/game/157432/cloud-climber/)
 - [Beyond Good & Evil](https://www.pcgamingwiki.com/wiki/Beyond_Good_%26_Evil)
+- [Alice: Madness Returns](https://www.pcgamingwiki.com/wiki/Alice:_Madness_Returns)
 
 ### Action
 - [Batman: Arkham Asylum](https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Asylum)
