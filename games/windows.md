@@ -45,7 +45,7 @@
 - [Crypt of the NecroDancer](https://www.pcgamingwiki.com/wiki/Crypt_of_the_NecroDancer)
 - [Shotgun King: The Final Checkmate](https://www.pcgamingwiki.com/wiki/Shotgun_King:_The_Final_Checkmate)
 - [Shogun Showdown](https://www.mobygames.com/game/205027/shogun-showdown/)
-- [Cataclysm: Dark Days Ahead - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](https://www.pcgamingwiki.com/wiki/Cataclysm:_Dark_Days_Ahead)
+- [Cataclysm: Dark Days Ahead](https://www.pcgamingwiki.com/wiki/Cataclysm:_Dark_Days_Ahead)
 - [Elona](https://elona.fandom.com/wiki/Elona_Wiki)
 
 ### Metroidvania
@@ -120,7 +120,7 @@
 - [Bunny Hop](https://store.steampowered.com/app/1410070/Bunny_Hop)
 - [Deneb: Across the Stars](https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars)
 - [This is Hell](https://store.steampowered.com/app/2157130/This_is_Hell/)
-- [Cursed Gem (2019) - MobyGames](https://www.mobygames.com/game/148973/cursed-gem/)
+- [Cursed Gem](https://www.mobygames.com/game/148973/cursed-gem/)
 - [Will You Snail?](https://www.pcgamingwiki.com/wiki/Will_You_Snail%3F)
 - [Sonic Mania](https://www.pcgamingwiki.com/wiki/Sonic_Mania)
 - [Spark the Electric Jester](https://www.pcgamingwiki.com/wiki/Spark_the_Electric_Jester)
@@ -128,7 +128,7 @@
 - [Freedom Planet 2](https://www.pcgamingwiki.com/wiki/Freedom_Planet_2)
 - [Antonblast](https://www.pcgamingwiki.com/wiki/Antonblast)
 - [Mirror's Edge](https://www.pcgamingwiki.com/wiki/Mirror%27s_Edge)
-- [Psychonauts - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](https://www.pcgamingwiki.com/wiki/Psychonauts)
+- [Psychonauts](https://www.pcgamingwiki.com/wiki/Psychonauts)
 
 ### Building
 - [Factorio](https://www.pcgamingwiki.com/wiki/Factorio)
@@ -354,7 +354,7 @@
 - [Warpips](https://www.pcgamingwiki.com/wiki/Warpips)
 - [They Are Billions](https://www.pcgamingwiki.com/wiki/They_Are_Billions)
 - [Super Fantasy Kingdom](https://store.steampowered.com/app/2289750/Super_Fantasy_Kingdom/)
-- [Cortex Command - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](https://www.pcgamingwiki.com/wiki/Cortex_Command)
+- [Cortex Command](https://www.pcgamingwiki.com/wiki/Cortex_Command)
 
 ### Idle
 - [Rusty's Retirement](https://www.pcgamingwiki.com/wiki/Rusty%27s_Retirement)
