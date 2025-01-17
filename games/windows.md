@@ -145,7 +145,7 @@
 - [Build-A-Lot](https://www.pcgamingwiki.com/wiki/Build-A-Lot)
 - [Cosmoteer: Starship Architect & Commander](https://www.pcgamingwiki.com/wiki/Cosmoteer:_Starship_Architect_%26_Commander)
 - [Turmoil](https://www.pcgamingwiki.com/wiki/Turmoil)
-
+- [Mindustry](https://www.pcgamingwiki.com/wiki/Mindustry)
 ### Shooter
 - [Hotline Miami](https://www.pcgamingwiki.com/wiki/Hotline_Miami)
 - [Hotline Miami 2: Wrong Number](https://www.pcgamingwiki.com/wiki/Hotline_Miami_2:_Wrong_Number)
