@@ -1,4 +1,4 @@
-### Roguelike:
+### Roguelike
 - [Hades](https://www.pcgamingwiki.com/wiki/Hades)
 - [Noita](https://www.pcgamingwiki.com/wiki/Noita)
 - [The Binding of Isaac: Rebirth](https://www.pcgamingwiki.com/wiki/The_Binding_of_Isaac:_Rebirth)
@@ -15,9 +15,7 @@
 - [Wizard of Legend](https://www.pcgamingwiki.com/wiki/Wizard_of_Legend)
 - [Rogue Tower](https://www.mobygames.com/game/179020/rogue-tower/)
 - [Cult of the Lamb](https://www.pcgamingwiki.com/wiki/Cult_of_the_Lamb)
-- [Eastward](https://www.pcgamingwiki.com/wiki/Eastward)
 - [Peglin](https://www.pcgamingwiki.com/wiki/Peglin)
-- [Eagle Island](https://www.pcgamingwiki.com/wiki/Eagle_Island)
 - [Moonlighter](https://www.pcgamingwiki.com/wiki/Moonlighter)
 - [Pocket Rogues](https://www.pcgamingwiki.com/wiki/Pocket_Rogues)
 - [Eagle Island](https://www.pcgamingwiki.com/wiki/Eagle_Island)
@@ -34,8 +32,23 @@
 - [Vagante](https://www.pcgamingwiki.com/wiki/Vagante)
 - [ScourgeBringer](https://www.pcgamingwiki.com/wiki/ScourgeBringer)
 - [Fury Unleashed](https://www.pcgamingwiki.com/wiki/Fury_Unleashed)
+- [9th Dawn III](https://www.pcgamingwiki.com/wiki/9th_Dawn_III)
+- [Another Farm Roguelike: Rebirth](https://store.steampowered.com/app/2760790/Another_Farm_Roguelike_Rebirth/)
+- [Astral Ascent](https://www.pcgamingwiki.com/wiki/Astral_Ascent)
+- [Atomicrops](https://www.pcgamingwiki.com/wiki/Atomicrops)
+- [Backpack Hero](https://www.pcgamingwiki.com/wiki/Backpack_Hero)
+- [Balatro](https://www.pcgamingwiki.com/wiki/Balatro)
+- [Brotato](https://www.pcgamingwiki.com/wiki/Brotato)
+- [Castle of Alchemists: Prologue on Steam](https://store.steampowered.com/app/2954600/Castle_of_Alchemists_Prologue/)
+- [Caveblazers](https://www.pcgamingwiki.com/wiki/Caveblazers)
+- [Cobalt Core](https://www.pcgamingwiki.com/wiki/Cobalt_Core)
+- [Crypt of the NecroDancer](https://www.pcgamingwiki.com/wiki/Crypt_of_the_NecroDancer)
+- [Shotgun King: The Final Checkmate](https://www.pcgamingwiki.com/wiki/Shotgun_King:_The_Final_Checkmate)
+- [Shogun Showdown](https://www.mobygames.com/game/205027/shogun-showdown/)
+- [Cataclysm: Dark Days Ahead - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](https://www.pcgamingwiki.com/wiki/Cataclysm:_Dark_Days_Ahead)
+- [Elona](https://elona.fandom.com/wiki/Elona_Wiki)
 
-### Metroidvania:
+### Metroidvania
 - [Hollow Knight](https://www.pcgamingwiki.com/wiki/Hollow_Knight)
 - [Batbarian: Testament of the Primordials](https://www.pcgamingwiki.com/wiki/Batbarian:_Testament_of_the_Primordials)
 - [Blasphemous](https://www.pcgamingwiki.com/wiki/Blasphemous)
@@ -50,15 +63,13 @@
 - [Fearmonium](https://www.pcgamingwiki.com/wiki/Fearmonium)
 - [Haiku, the Robot](https://www.pcgamingwiki.com/wiki/Haiku,_the_Robot)
 - [Ender Lilies: Quietus of the Knights](https://www.pcgamingwiki.com/wiki/Ender_Lilies:_Quietus_of_the_Knights)
-- [Cathedral](https://www.pcgamingwiki.com/wiki/Cathedral)
-- [Carrion](https://www.pcgamingwiki.com/wiki/Carrion)
 - [Bone Appetit](https://www.mobygames.com/game/152489/bone-appetit/)
 - [Alwa's Awakening](https://www.pcgamingwiki.com/wiki/Alwa%27s_Awakening)
 - [Alwa's Legacy](https://www.pcgamingwiki.com/wiki/Alwa%27s_Legacy)
-- [Astalon: Tears of the Earth](https://www.pcgamingwiki.com/wiki/Astalon:_Tears_of_the_Earth)
 - [Ato](https://www.mobygames.com/game/158141/ato/)
 - [Axiom Verge](https://www.pcgamingwiki.com/wiki/Axiom_Verge)
 - [Axiom Verge 2](https://www.pcgamingwiki.com/wiki/Axiom_Verge_2)
+- [Tempest of the Heavens and Earth](https://www.pcgamingwiki.com/wiki/Tempest_of_the_Heavens_and_Earth)
 - [Touhou Luna Nights](https://www.pcgamingwiki.com/wiki/Touhou_Luna_Nights)
 - [The Messenger](https://www.pcgamingwiki.com/wiki/The_Messenger)
 - [Cave Story+](https://www.pcgamingwiki.com/wiki/Cave_Story%2B)
@@ -76,8 +87,12 @@
 - [Astalon: Tears of the Earth](https://www.pcgamingwiki.com/wiki/Astalon:_Tears_of_the_Earth)
 - [Unsighted](https://www.pcgamingwiki.com/wiki/Unsighted)
 - [The Last Faith](https://www.pcgamingwiki.com/wiki/The_Last_Faith)
+- [8Doors: Arum's Afterlife Adventure](https://www.pcgamingwiki.com/wiki/8Doors:_Arum%27s_Afterlife_Adventure)
+- [Angel's Gear](https://store.steampowered.com/app/2241560/Angels_Gear/)
+- [Aquaria](https://www.pcgamingwiki.com/wiki/Aquaria)
+- [La-Mulana](https://www.pcgamingwiki.com/wiki/La-Mulana)
 
-### Platformer:
+### Platformer
 - [Celeste](https://www.pcgamingwiki.com/wiki/Celeste)
 - [Shovel Knight: Treasure Trove](https://www.pcgamingwiki.com/wiki/Shovel_Knight:_Treasure_Trove)
 - [Pizza Tower](https://www.pcgamingwiki.com/wiki/Pizza_Tower)
@@ -93,8 +108,6 @@
 - [Himno](https://www.pcgamingwiki.com/wiki/Himno)
 - [Sanabi](https://www.pcgamingwiki.com/wiki/Sanabi)
 - [Gravity Circuit](https://www.pcgamingwiki.com/wiki/Gravity_Circuit)
-- [Spark the Electric Jester](https://www.pcgamingwiki.com/wiki/Spark_the_Electric_Jester)
-- [Freedom Planet 2](https://www.pcgamingwiki.com/wiki/Freedom_Planet_2)
 - [Bread & Fred](https://www.pcgamingwiki.com/wiki/Bread_%26_Fred)
 - [Momodora I](https://www.pcgamingwiki.com/wiki/Momodora_I)
 - [Momodora II](https://www.pcgamingwiki.com/wiki/Momodora_II)
@@ -107,8 +120,17 @@
 - [Bunny Hop](https://store.steampowered.com/app/1410070/Bunny_Hop)
 - [Deneb: Across the Stars](https://store.steampowered.com/app/2016580/Deneb_Across_the_Stars)
 - [This is Hell](https://store.steampowered.com/app/2157130/This_is_Hell/)
+- [Cursed Gem (2019) - MobyGames](https://www.mobygames.com/game/148973/cursed-gem/)
+- [Will You Snail?](https://www.pcgamingwiki.com/wiki/Will_You_Snail%3F)
+- [Sonic Mania](https://www.pcgamingwiki.com/wiki/Sonic_Mania)
+- [Spark the Electric Jester](https://www.pcgamingwiki.com/wiki/Spark_the_Electric_Jester)
+- [Freedom Planet](https://www.pcgamingwiki.com/wiki/Freedom_Planet)
+- [Freedom Planet 2](https://www.pcgamingwiki.com/wiki/Freedom_Planet_2)
+- [Antonblast](https://www.pcgamingwiki.com/wiki/Antonblast)
+- [Mirror's Edge](https://www.pcgamingwiki.com/wiki/Mirror%27s_Edge)
+- [Psychonauts - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](https://www.pcgamingwiki.com/wiki/Psychonauts)
 
-### Building:
+### Building
 - [Factorio](https://www.pcgamingwiki.com/wiki/Factorio)
 - [OpenTTD](https://www.pcgamingwiki.com/wiki/OpenTTD)
 - [Chris Sawyer's Locomotion](https://www.pcgamingwiki.com/wiki/Chris_Sawyer%27s_Locomotion)
@@ -117,8 +139,14 @@
 - [Factory Town](https://www.pcgamingwiki.com/wiki/Factory_Town)
 - [Fallout Shelter](https://www.pcgamingwiki.com/wiki/Fallout_Shelter)
 - [Banished](https://www.pcgamingwiki.com/wiki/Banished)
+- [Airport CEO](https://www.pcgamingwiki.com/wiki/Airport_CEO)
+- [Atrio: The Dark Wild](https://www.pcgamingwiki.com/wiki/Atrio:_The_Dark_Wild)
+- [Bear and Breakfast](https://www.pcgamingwiki.com/wiki/Bear_and_Breakfast)
+- [Build-A-Lot](https://www.pcgamingwiki.com/wiki/Build-A-Lot)
+- [Cosmoteer: Starship Architect & Commander](https://www.pcgamingwiki.com/wiki/Cosmoteer:_Starship_Architect_%26_Commander)
+- [Turmoil](https://www.pcgamingwiki.com/wiki/Turmoil)
 
-### Shooter:
+### Shooter
 - [Hotline Miami](https://www.pcgamingwiki.com/wiki/Hotline_Miami)
 - [Hotline Miami 2: Wrong Number](https://www.pcgamingwiki.com/wiki/Hotline_Miami_2:_Wrong_Number)
 - [Max Payne 3](https://www.pcgamingwiki.com/wiki/Max_Payne_3)
@@ -126,10 +154,10 @@
 - [Broforce](https://www.pcgamingwiki.com/wiki/Broforce)
 - [The Expendabros](https://www.pcgamingwiki.com/wiki/The_Expendabros)
 
-### Farming:
+### Farming
 - [Stardew Valley](https://www.pcgamingwiki.com/wiki/Stardew_Valley)
 
-### Survival:
+### Survival
 - [Don't Starve](https://www.pcgamingwiki.com/wiki/Don%27t_Starve)
 - [Don't Starve Together](https://www.pcgamingwiki.com/wiki/Don%27t_Starve_Together)
 - [RimWorld](https://www.pcgamingwiki.com/wiki/RimWorld)
@@ -139,8 +167,10 @@
 - [Evil Tonight](https://www.pcgamingwiki.com/wiki/Evil_Tonight)
 - [Core Keeper](https://www.pcgamingwiki.com/wiki/Core_Keeper)
 - [Wayward](https://www.pcgamingwiki.com/wiki/Wayward)
+- [Alan Wake](https://www.pcgamingwiki.com/wiki/Alan_Wake)
+- [ZERO Sievert](https://www.pcgamingwiki.com/wiki/ZERO_Sievert)
 
-### Puzzle:
+### Puzzle
 - [Shovel Knight Pocket Dungeon](https://www.pcgamingwiki.com/wiki/Shovel_Knight_Pocket_Dungeon)
 - [Helltaker](https://www.pcgamingwiki.com/wiki/Helltaker)
 - [Taiji](https://www.pcgamingwiki.com/wiki/Taiji)
@@ -148,8 +178,10 @@
 - [Escape Goat](https://www.pcgamingwiki.com/wiki/Escape_Goat)
 - [Escape Goat 2](https://www.pcgamingwiki.com/wiki/Escape_Goat_2)
 - [Evan's Remains](https://www.pcgamingwiki.com/wiki/Evan%27s_Remains)
+- [Baba Is You](https://www.pcgamingwiki.com/wiki/Baba_Is_You)
+- [Wildfire](https://www.pcgamingwiki.com/wiki/Wildfire)
 
-### Adventure:
+### Adventure
 - [Black Skylands](https://www.pcgamingwiki.com/wiki/Black_Skylands)
 - [To the Moon](https://www.pcgamingwiki.com/wiki/To_the_Moon)
 - [A Bird Story](https://www.pcgamingwiki.com/wiki/A_Bird_Story)
@@ -162,8 +194,10 @@
 - [Turnip Boy Robs a Bank](https://www.pcgamingwiki.com/wiki/Turnip_Boy_Robs_a_Bank)
 - [Emberville](https://store.steampowered.com/app/2295170/Emberville/)
 - [Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist](https://www.pcgamingwiki.com/wiki/Dr._Langeskov,_The_Tiger,_and_The_Terribly_Cursed_Emerald:_A_Whirlwind_Heist)
+- [Cloud Climber](https://www.mobygames.com/game/157432/cloud-climber/)
+- [Beyond Good & Evil](https://www.pcgamingwiki.com/wiki/Beyond_Good_%26_Evil)
 
-### Action:
+### Action
 - [Batman: Arkham Asylum](https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Asylum)
 - [Batman: Arkham City](https://www.pcgamingwiki.com/wiki/Batman:_Arkham_City)
 - [Batman: Arkham Origins](https://www.pcgamingwiki.com/wiki/Batman:_Arkham_Origins)
@@ -185,7 +219,9 @@
 - [TowerFall Ascension](https://www.pcgamingwiki.com/wiki/TowerFall_Ascension)
 - [L.A. Noire](https://www.pcgamingwiki.com/wiki/L.A._Noire)
 - [Assassin's Creed II](https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_II)
-- [Dishonored](https://www.pcgamingwiki.com/wiki/Dishonored)
+- [Assassin's Creed IV: Black Flag](https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_IV:_Black_Flag)
+- [Assassin's Creed Rogue](https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_Rogue)
+- [Assassin's Creed Syndicate](https://www.pcgamingwiki.com/wiki/Assassin%27s_Creed_Syndicate)
 - [Sleeping Dogs: Definitive Edition](https://www.pcgamingwiki.com/wiki/Sleeping_Dogs:_Definitive_Edition)
 - [Grand Theft Auto III](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_III)
 - [Grand Theft Auto: Vice City](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto:_Vice_City)
@@ -200,20 +236,23 @@
 - [Akane](https://www.pcgamingwiki.com/wiki/Akane)
 - [Huntdown](https://www.pcgamingwiki.com/wiki/Huntdown)
 - [Colt Canyon](https://www.pcgamingwiki.com/wiki/Colt_Canyon)
+- [The Saboteur](https://www.pcgamingwiki.com/wiki/The_Saboteur)
 
-### Action RPG:
+### Action RPG
 - [CrossCode](https://www.pcgamingwiki.com/wiki/CrossCode)
 - [Hyper Light Drifter](https://www.pcgamingwiki.com/wiki/Hyper_Light_Drifter)
 - [Fallout 3](https://www.pcgamingwiki.com/wiki/Fallout_3)
 - [Fallout: New Vegas](https://www.pcgamingwiki.com/wiki/Fallout:_New_Vegas)
 - [Fallout 4](https://www.pcgamingwiki.com/wiki/Fallout_4)
 - [Graveyard Keeper](https://www.pcgamingwiki.com/wiki/Graveyard_Keeper)
-- [Hyper Light Drifter](https://www.pcgamingwiki.com/wiki/Hyper_Light_Drifter)
 - [Ocean's Heart](https://www.pcgamingwiki.com/wiki/Ocean%27s_Heart)
 - [Unsouled](https://www.pcgamingwiki.com/wiki/Unsouled)
 - [Death Trash](https://www.pcgamingwiki.com/wiki/Death_Trash)
 - [Chasm](https://www.pcgamingwiki.com/wiki/Chasm)
 - [Archvale](https://www.pcgamingwiki.com/wiki/Archvale)
+- [ASTLIBRA Revision](https://www.pcgamingwiki.com/wiki/ASTLIBRA_Revision)
+- [Bastion](https://www.pcgamingwiki.com/wiki/Bastion)
+- [Ys I & II Chronicles+](https://www.pcgamingwiki.com/wiki/Ys_I_%26_II_Chronicles%2B)
 
 ### FPS
 - [Ultrakill](https://www.pcgamingwiki.com/wiki/Ultrakill)
@@ -241,8 +280,11 @@
 - [Just Cause 2](https://www.pcgamingwiki.com/wiki/Just_Cause_2)
 - [Ravenfield](https://www.pcgamingwiki.com/wiki/Ravenfield)
 - [Wolfenstein: The New Order](https://www.pcgamingwiki.com/wiki/Wolfenstein:_The_New_Order)
+- [Left 4 Dead](https://www.pcgamingwiki.com/wiki/Left_4_Dead)
+- [Left 4 Dead 2](https://www.pcgamingwiki.com/wiki/Left_4_Dead_2)
+- [BattleBit Remastered](https://www.pcgamingwiki.com/wiki/BattleBit_Remastered)
 
-### RPG:
+### RPG
 - [The Witcher](https://www.pcgamingwiki.com/wiki/The_Witcher)
 - [The Witcher 2: Assassins of Kings](https://www.pcgamingwiki.com/wiki/The_Witcher_2:_Assassins_of_Kings)
 - [Darksiders Warmastered Edition](https://www.pcgamingwiki.com/wiki/Darksiders_Warmastered_Edition)
@@ -254,8 +296,15 @@
 - [Project Kat - Paper Lily Prologue](https://www.pcgamingwiki.com/wiki/Project_Kat_-_Paper_Lily_Prologue)
 - [Travellers Rest](https://www.pcgamingwiki.com/wiki/Travellers_Rest)
 - [Undertale](https://www.pcgamingwiki.com/wiki/Undertale)
+- [Vampire: The Masquerade - Bloodlines](https://www.pcgamingwiki.com/wiki/Vampire:_The_Masquerade_-_Bloodlines)
+- [Blossom Tales: The Sleeping King](https://www.pcgamingwiki.com/wiki/Blossom_Tales:_The_Sleeping_King)
+- [Blossom Tales 2: The Minotaur Prince](https://www.pcgamingwiki.com/wiki/Blossom_Tales_2:_The_Minotaur_Prince)
+- [Dark Devotion](https://www.pcgamingwiki.com/wiki/Dark_Devotion)
+- [World of Horror](https://www.pcgamingwiki.com/wiki/World_of_Horror)
+- [West of Loathing](https://www.pcgamingwiki.com/wiki/West_of_Loathing)
+- [Transistor](https://www.pcgamingwiki.com/wiki/Transistor)
 
-### Racing:
+### Racing
 - [Need for Speed: Underground](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground)
 - [Need for Speed: Underground 2](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground_2)
 - [Need for Speed: Most Wanted](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Most_Wanted)
@@ -271,29 +320,57 @@
 - [Old School Rally](https://store.steampowered.com/app/2824660/Old_School_Rally/)
 - [SuperTuxKart](https://www.pcgamingwiki.com/wiki/SuperTuxKart)
 - [Nightmare Kart](https://www.pcgamingwiki.com/wiki/Nightmare_Kart)
+- [OutRun 2006: Coast 2 Coast](https://www.pcgamingwiki.com/wiki/OutRun_2006:_Coast_2_Coast)
+- [Euro Truck Simulator](https://www.pcgamingwiki.com/wiki/Euro_Truck_Simulator)
+- [Scania Truck Driving Simulator](https://www.pcgamingwiki.com/wiki/Scania_Truck_Driving_Simulator)
+- [Euro Truck Simulator 2](https://www.pcgamingwiki.com/wiki/Euro_Truck_Simulator_2)
+- [Assetto Corsa](https://www.pcgamingwiki.com/wiki/Assetto_Corsa)
+- [The Simpsons: Hit & Run](https://www.pcgamingwiki.com/wiki/The_Simpsons:_Hit_%26_Run)
+- [Midnight Club II](https://www.pcgamingwiki.com/wiki/Midnight_Club_II)
 
-### JRPG:
+### JRPG
 - [Jack Move](https://www.pcgamingwiki.com/wiki/Jack_Move)
 - [OMORI](https://www.pcgamingwiki.com/wiki/OMORI)
 
-### Fighting:
+### Fighting
 - [Nidhogg](https://www.pcgamingwiki.com/wiki/Nidhogg)
 - [Nidhogg 2](https://www.pcgamingwiki.com/wiki/Nidhogg_2)
 - [Duelists of Eden](https://www.mobygames.com/game/223506/duelists-of-eden/)
+- [The King of Fighters XIII](https://www.pcgamingwiki.com/wiki/The_King_of_Fighters_XIII) 
 
-### Shoot 'Em Up:
+### Shoot 'Em Up
 - [Drainus](https://www.pcgamingwiki.com/wiki/Drainus)
-
-### Strategy:
+- [Angel at Dusk](https://www.mobygames.com/game/215514/angel-at-dusk/)
+- [Tonight We Riot](https://www.pcgamingwiki.com/wiki/Tonight_We_Riot)
+- [Deathsmiles](https://www.pcgamingwiki.com/wiki/Deathsmiles)
+- 
+### Strategy
 - [Into the Breach](https://www.pcgamingwiki.com/wiki/Into_the_Breach)
 - [The Escapists 2](https://www.pcgamingwiki.com/wiki/The_Escapists_2)
+- [Plants vs. Zombies](https://www.pcgamingwiki.com/wiki/Plants_vs._Zombies)
+- [5D Chess With Multiverse Time Travel](https://www.pcgamingwiki.com/wiki/5D_Chess_With_Multiverse_Time_Travel)
+- [Bloons TD 6](https://www.pcgamingwiki.com/wiki/Bloons_TD_6)
+- [Cursed Treasure 2 Ultimate Edition](https://www.pcgamingwiki.com/wiki/Cursed_Treasure_2_Ultimate_Edition)
+- [Warpips](https://www.pcgamingwiki.com/wiki/Warpips)
+- [They Are Billions](https://www.pcgamingwiki.com/wiki/They_Are_Billions)
+- [Super Fantasy Kingdom](https://store.steampowered.com/app/2289750/Super_Fantasy_Kingdom/)
+- [Cortex Command - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](https://www.pcgamingwiki.com/wiki/Cortex_Command)
 
-### Idle:
+### Idle
 - [Rusty's Retirement](https://www.pcgamingwiki.com/wiki/Rusty%27s_Retirement)
+- [The Longing](https://www.pcgamingwiki.com/wiki/The_Longing)
 
-### Flight:
+### Flight
 - [Microsoft Flight Simulator X](https://www.pcgamingwiki.com/wiki/Microsoft_Flight_Simulator_X)
 
-### Multiplayer:
+### Multiplayer
 - [Super Animal Royale](https://www.pcgamingwiki.com/wiki/Super_Animal_Royale)
- 
+
+ ### Cards
+ - [Card Shark](https://www.pcgamingwiki.com/wiki/Card_Shark)
+
+ ### Hack and slash
+ - [Crawl](https://www.pcgamingwiki.com/wiki/Crawl)
+
+ ### Beat 'em up
+- [Teenage Mutant Ninja Turtles: Shredder's Revenge](https://www.pcgamingwiki.com/wiki/Teenage_Mutant_Ninja_Turtles:_Shredder%27s_Revenge)
