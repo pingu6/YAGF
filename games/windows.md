@@ -39,7 +39,7 @@
 - [Backpack Hero](https://www.pcgamingwiki.com/wiki/Backpack_Hero)
 - [Balatro](https://www.pcgamingwiki.com/wiki/Balatro)
 - [Brotato](https://www.pcgamingwiki.com/wiki/Brotato)
-- [Castle of Alchemists: Prologue on Steam](https://store.steampowered.com/app/2954600/Castle_of_Alchemists_Prologue/)
+- [Castle of Alchemists: Prologue](https://store.steampowered.com/app/2954600/Castle_of_Alchemists_Prologue/)
 - [Caveblazers](https://www.pcgamingwiki.com/wiki/Caveblazers)
 - [Cobalt Core](https://www.pcgamingwiki.com/wiki/Cobalt_Core)
 - [Crypt of the NecroDancer](https://www.pcgamingwiki.com/wiki/Crypt_of_the_NecroDancer)
@@ -243,7 +243,6 @@
 - [Hyper Light Drifter](https://www.pcgamingwiki.com/wiki/Hyper_Light_Drifter)
 - [Fallout 3](https://www.pcgamingwiki.com/wiki/Fallout_3)
 - [Fallout: New Vegas](https://www.pcgamingwiki.com/wiki/Fallout:_New_Vegas)
-- [Fallout 4](https://www.pcgamingwiki.com/wiki/Fallout_4)
 - [Graveyard Keeper](https://www.pcgamingwiki.com/wiki/Graveyard_Keeper)
 - [Ocean's Heart](https://www.pcgamingwiki.com/wiki/Ocean%27s_Heart)
 - [Unsouled](https://www.pcgamingwiki.com/wiki/Unsouled)
@@ -343,7 +342,7 @@
 - [Angel at Dusk](https://www.mobygames.com/game/215514/angel-at-dusk/)
 - [Tonight We Riot](https://www.pcgamingwiki.com/wiki/Tonight_We_Riot)
 - [Deathsmiles](https://www.pcgamingwiki.com/wiki/Deathsmiles)
-- 
+
 ### Strategy
 - [Into the Breach](https://www.pcgamingwiki.com/wiki/Into_the_Breach)
 - [The Escapists 2](https://www.pcgamingwiki.com/wiki/The_Escapists_2)
