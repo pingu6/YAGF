@@ -93,6 +93,8 @@
 - [La-Mulana](https://www.pcgamingwiki.com/wiki/La-Mulana)
 - [Rabi-Ribi](https://www.pcgamingwiki.com/wiki/Rabi-Ribi)
 - [Shantae and the Pirate's Curse](https://www.pcgamingwiki.com/wiki/Shantae_and_the_Pirate%27s_Curse)
+- [Rusted Moss](https://www.pcgamingwiki.com/wiki/Rusted_Moss)
+
 ### Platformer
 - [Celeste](https://www.pcgamingwiki.com/wiki/Celeste)
 - [Shovel Knight: Treasure Trove](https://www.pcgamingwiki.com/wiki/Shovel_Knight:_Treasure_Trove)
