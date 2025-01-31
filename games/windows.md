@@ -91,7 +91,8 @@
 - [Angel's Gear](https://store.steampowered.com/app/2241560/Angels_Gear/)
 - [Aquaria](https://www.pcgamingwiki.com/wiki/Aquaria)
 - [La-Mulana](https://www.pcgamingwiki.com/wiki/La-Mulana)
-
+- [Rabi-Ribi](https://www.pcgamingwiki.com/wiki/Rabi-Ribi)
+- [Shantae and the Pirate's Curse](https://www.pcgamingwiki.com/wiki/Shantae_and_the_Pirate%27s_Curse)
 ### Platformer
 - [Celeste](https://www.pcgamingwiki.com/wiki/Celeste)
 - [Shovel Knight: Treasure Trove](https://www.pcgamingwiki.com/wiki/Shovel_Knight:_Treasure_Trove)
@@ -129,6 +130,12 @@
 - [Antonblast](https://www.pcgamingwiki.com/wiki/Antonblast)
 - [Mirror's Edge](https://www.pcgamingwiki.com/wiki/Mirror%27s_Edge)
 - [Psychonauts](https://www.pcgamingwiki.com/wiki/Psychonauts)
+- [Wonder Boy: The Dragon's Trap](https://www.pcgamingwiki.com/wiki/Wonder_Boy%3A_The_Dragon%27s_Trap)
+- [Kaze and the Wild Masks](https://www.pcgamingwiki.com/wiki/Kaze_and_the_Wild_Masks)
+- [Trine Enchanted Edition](https://www.pcgamingwiki.com/wiki/Trine_Enchanted_Edition)
+- [Apotheon](https://www.pcgamingwiki.com/wiki/Apotheon)
+- [Angry Video Game Nerd I & II Deluxe](https://www.pcgamingwiki.com/wiki/Angry_Video_Game_Nerd_I_%26_II_Deluxe)
+- [Giana Sisters: Twisted Dreams](https://www.pcgamingwiki.com/wiki/Giana_Sisters%3A_Twisted_Dreams)
 
 ### Building
 - [Factorio](https://www.pcgamingwiki.com/wiki/Factorio)
@@ -146,6 +153,7 @@
 - [Cosmoteer: Starship Architect & Commander](https://www.pcgamingwiki.com/wiki/Cosmoteer:_Starship_Architect_%26_Commander)
 - [Turmoil](https://www.pcgamingwiki.com/wiki/Turmoil)
 - [Mindustry](https://www.pcgamingwiki.com/wiki/Mindustry)
+
 ### Shooter
 - [Hotline Miami](https://www.pcgamingwiki.com/wiki/Hotline_Miami)
 - [Hotline Miami 2: Wrong Number](https://www.pcgamingwiki.com/wiki/Hotline_Miami_2:_Wrong_Number)
@@ -153,6 +161,8 @@
 - [Loplight](https://www.mobygames.com/game/190160/loplight/)
 - [Broforce](https://www.pcgamingwiki.com/wiki/Broforce)
 - [The Expendabros](https://www.pcgamingwiki.com/wiki/The_Expendabros)
+- [Blazing Chrome](https://www.pcgamingwiki.com/wiki/Blazing_Chrome)
+- [Mercenary Kings](https://www.pcgamingwiki.com/wiki/Mercenary_Kings)
 
 ### Farming
 - [Stardew Valley](https://www.pcgamingwiki.com/wiki/Stardew_Valley)
@@ -337,12 +347,16 @@
 - [Nidhogg 2](https://www.pcgamingwiki.com/wiki/Nidhogg_2)
 - [Duelists of Eden](https://www.mobygames.com/game/223506/duelists-of-eden/)
 - [The King of Fighters XIII](https://www.pcgamingwiki.com/wiki/The_King_of_Fighters_XIII) 
+- [Umineko: Golden Fantasia](https://www.pcgamingwiki.com/wiki/Umineko%3A_Golden_Fantasia)
 
 ### Shoot 'Em Up
 - [Drainus](https://www.pcgamingwiki.com/wiki/Drainus)
 - [Angel at Dusk](https://www.mobygames.com/game/215514/angel-at-dusk/)
 - [Tonight We Riot](https://www.pcgamingwiki.com/wiki/Tonight_We_Riot)
 - [Deathsmiles](https://www.pcgamingwiki.com/wiki/Deathsmiles)
+- [Taisei Project](https://www.pcgamingwiki.com/wiki/Taisei_Project)
+- [Crimzon Clover World EXplosion](https://www.pcgamingwiki.com/wiki/Crimzon_Clover_World_EXplosion)
+- [Jamestown+](https://www.pcgamingwiki.com/wiki/Jamestown%2B)
 
 ### Strategy
 - [Into the Breach](https://www.pcgamingwiki.com/wiki/Into_the_Breach)
@@ -365,6 +379,7 @@
 
 ### Multiplayer
 - [Super Animal Royale](https://www.pcgamingwiki.com/wiki/Super_Animal_Royale)
+- [Battle Painters](http://www.saitogames.com/battlepainters/index.htm)
 
  ### Cards
  - [Card Shark](https://www.pcgamingwiki.com/wiki/Card_Shark)
