@@ -47,6 +47,7 @@
 - [Shogun Showdown](https://www.mobygames.com/game/205027/shogun-showdown/)
 - [Cataclysm: Dark Days Ahead](https://www.pcgamingwiki.com/wiki/Cataclysm:_Dark_Days_Ahead)
 - [Elona](https://elona.fandom.com/wiki/Elona_Wiki)
+- [Nova Drift](https://www.pcgamingwiki.com/wiki/Nova_Drift)
 
 ### Metroidvania
 - [Hollow Knight](https://www.pcgamingwiki.com/wiki/Hollow_Knight)
@@ -138,6 +139,7 @@
 - [Apotheon](https://www.pcgamingwiki.com/wiki/Apotheon)
 - [Angry Video Game Nerd I & II Deluxe](https://www.pcgamingwiki.com/wiki/Angry_Video_Game_Nerd_I_%26_II_Deluxe)
 - [Giana Sisters: Twisted Dreams](https://www.pcgamingwiki.com/wiki/Giana_Sisters%3A_Twisted_Dreams)
+- [Braid](https://www.pcgamingwiki.com/wiki/Braid)
 
 ### Building
 - [Factorio](https://www.pcgamingwiki.com/wiki/Factorio)
@@ -315,6 +317,8 @@
 - [World of Horror](https://www.pcgamingwiki.com/wiki/World_of_Horror)
 - [West of Loathing](https://www.pcgamingwiki.com/wiki/West_of_Loathing)
 - [Transistor](https://www.pcgamingwiki.com/wiki/Transistor)
+- [Secrets of Grindea](https://www.pcgamingwiki.com/wiki/Secrets_of_Grindea)
+- [Drova: Forsaken Kin](https://www.pcgamingwiki.com/wiki/Drova:_Forsaken_Kin)
 
 ### Racing
 - [Need for Speed: Underground](https://www.pcgamingwiki.com/wiki/Need_for_Speed:_Underground)
