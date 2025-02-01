@@ -252,6 +252,7 @@
 - [Huntdown](https://www.pcgamingwiki.com/wiki/Huntdown)
 - [Colt Canyon](https://www.pcgamingwiki.com/wiki/Colt_Canyon)
 - [The Saboteur](https://www.pcgamingwiki.com/wiki/The_Saboteur)
+- [Remember Me](https://www.pcgamingwiki.com/wiki/Remember_Me)
 
 ### Action RPG
 - [CrossCode](https://www.pcgamingwiki.com/wiki/CrossCode)
