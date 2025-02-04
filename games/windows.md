@@ -48,6 +48,7 @@
 - [Cataclysm: Dark Days Ahead](https://www.pcgamingwiki.com/wiki/Cataclysm:_Dark_Days_Ahead)
 - [Elona](https://elona.fandom.com/wiki/Elona_Wiki)
 - [Nova Drift](https://www.pcgamingwiki.com/wiki/Nova_Drift)
+- [FTL: Faster Than Light](https://www.pcgamingwiki.com/wiki/FTL:_Faster_Than_Light)
 
 ### Metroidvania
 - [Hollow Knight](https://www.pcgamingwiki.com/wiki/Hollow_Knight)
